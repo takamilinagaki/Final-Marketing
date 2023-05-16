@@ -1,0 +1,22 @@
+.about_main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2.5rem;
+    font-size: 24px;    
+}
+
+.about_main video{
+    width: 1000px;
+}
+
+.about_texts p{
+    margin: 2em 2em;
+    font-size: 18px;
+    width: 28em;
+    font-family: "Lato";
+}
+
+.footer{
+    padding-top: 100px;
+}

@@ -1,0 +1,44 @@
+.feature_main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2.5rem;
+    font-size: 24px;    
+    font-family: "Lato";
+}
+
+.feature_main h1{
+    font-size: 2em;
+}
+
+.features{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: auto auto;
+    gap: 11rem;
+    padding-top: 1.875px;
+}
+
+.feature_pic{
+    width: 150px;
+    height: 150px;
+    border: solid 5px #FFDC3E;
+    padding: 40px 15px;
+    border-radius: 20px;
+}
+
+.feature_title{
+    font-size: 20px;
+    text-align: center;
+}
+
+.feature_description{
+    font-size: 16px;
+    padding-top: 20px;
+    width: 200px;
+    text-align: center;
+}
+
+.footer{
+    padding-top: 100px;
+}

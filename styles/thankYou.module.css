@@ -1,0 +1,39 @@
+.thankyouPage_main{
+    font-family: "Lato";
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+    background-color: #FFDC3E;
+    text-decoration: none;
+    border-radius: 2.5rem;
+    font-size: 1.7rem;
+    width: 10em;
+    height: 3em;
+    text-align: center;
+    align-items: center;
+    border: none;
+    cursor: pointer;
+}
+
+.button:hover{
+    background-color: #0A78C2;
+    color: white;
+}
+
+.thankyouPage_main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding-top: 160px;
+}
+
+.thankyouPage_main h1{
+    font-size: 48px;
+}
+
+.thankYou_logo{
+    width: 640px;
+}

@@ -1,75 +1,74 @@
-
 .main{
-  font-family: "Lato";
-  display: flex;
-  justify-content: center;
+    font-family: "Lato";
+    display: flex;
+    justify-content: center;
 }
 
 .homepage_texts_section{
-  display: flex;
-  flex-direction: column;
+    display: flex;
+    flex-direction: column;
 }
 
 .homepage_texts_section h1{
-  font-size: 2em;
+    font-size: 2em;
 }
 
 .homepage_texts_section_buttons {
-  display: flex;
-  flex-direction: row;
-  padding-top: 6rem;
-  gap: 40px;
+    display: flex;
+    flex-direction: row;
+    padding-top: 6rem;
+    gap: 40px;
 }
 
 .homepage{
-  display: flex;
-  flex-direction: row;
+    display: flex;
+    flex-direction: row;
 }
 
 .homepage_screendisplay_section{
-  display: flex;
-  flex-direction: row-reverse;
+    display: flex;
+    flex-direction: row-reverse;
 }
 
 .homepage_screendisplay_section img{
-  width: 250px;
-  margin: 50px;
+    width: 250px;
+    margin: 50px;
 }
 
 .homepage_main{
-  margin: 2em 2em;
+    margin: 2em 2em;
 }
 
 .button{
-  display: flex;
-  justify-content: center;
-  background-color: #FFDC3E;
-  text-decoration: none;
-  border-radius: 2.5rem;
-  font-size: 1.7rem;
-  width: 10em;
-  height: 3em;
-  text-align: center;
-  align-items: center;
-  border: none;
-  cursor: pointer;
+    display: flex;
+    justify-content: center;
+    background-color: #FFDC3E;
+    text-decoration: none;
+    border-radius: 2.5rem;
+    font-size: 1.7rem;
+    width: 10em;
+    height: 3em;
+    text-align: center;
+    align-items: center;
+    border: none;
+    cursor: pointer;
 }
 
 .button:hover{
-  background-color: #0A78C2;
-  color: white;
+    background-color: #0A78C2;
+    color: white;
 }
 
 
 .footer{
-  padding-top: 100px;
+    padding-top: 100px;
 }
 
 .homepage h1{
-  font-size: 40px;
+    font-size: 40px;
 }
 
 .homepage h2{
-  font-size: 20px;
-  font-weight: normal;
+    font-size: 20px;
+    font-weight: normal;
 }

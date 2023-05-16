@@ -1,0 +1,85 @@
+
+.rate_pic{
+    width: 112px;
+}
+
+.feedback_name_email{
+    display: flex;
+    flex-direction: row;
+    gap: 96px;
+}
+
+
+.feedback_name_email input{
+     width: 320px;
+     height: 32px;
+}
+
+.feedback_section textarea{
+    width: 960px;
+    height: 770px;
+}
+
+
+.feedback_main{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 112px;
+    font-size: 50px;
+    font-family: "Lato";
+}
+
+.rate_number{
+    font-size: 24px;
+    text-align: center;
+}
+
+.rate_each_section{
+    display: flex;
+    flex-direction: column;
+    gap:16px;
+}
+
+.rate_each_section_texts{
+    display: flex;
+    flex-direction: row;
+}
+
+.rating{
+    display: flex;
+    flex-direction: row;
+    gap: 3.5rem;
+}
+
+
+.feedback_section{
+    display: flex;
+    flex-direction: column;
+    gap: 56px;
+}
+
+.feedback_section label{
+    font-size: 19px;
+}
+
+.submit_button{
+    background-color: #FFDC3E;
+    text-decoration: none;
+    border-radius: 2.5rem;
+    font-size: 1.4rem;
+    width: 14rem;
+    height: 5rem;
+    text-align: center;
+    align-items: center;
+    border: none;
+}
+
+.submit_button:hover{
+    background-color: #0A78C2;
+    color: white;
+}
+
+.footer{
+    padding-top: 100px;
+}
