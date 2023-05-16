@@ -1,0 +1,27 @@
+.main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 32px 32px;
+    font-family: "Lato";
+}
+
+.logo_section{
+    display: flex;
+    flex-direction: row;
+}
+
+.links_to_other_pages{
+    display: flex;
+    flex-direction: row;
+    gap: 32px;
+}
+
+.links_to_other_pages p{
+    text-decoration: none;
+}
+
+.header{
+    display: flex;
+    gap:600px;
+}

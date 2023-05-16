@@ -1,0 +1,18 @@
+
+.main{
+    margin:0;
+    padding-top: 100px;
+    font-family: "Lato";
+}
+
+.footerInside{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px 30px;
+    background-color: #FFDC3E;
+ }
+
+ .contactUsLink{
+    text-decoration: none;
+ }
